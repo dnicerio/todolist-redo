@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/todolist-redo/static/css/main.9cceebfa.chunk.css",
+    "main.css": "/todolist-redo/static/css/main.23c7eb9d.chunk.css",
     "main.js": "/todolist-redo/static/js/main.114c7a01.chunk.js",
     "main.js.map": "/todolist-redo/static/js/main.114c7a01.chunk.js.map",
     "runtime-main.js": "/todolist-redo/static/js/runtime-main.8612edda.js",
@@ -9,10 +9,10 @@
     "static/js/2.c6c28f8a.chunk.js": "/todolist-redo/static/js/2.c6c28f8a.chunk.js",
     "static/js/2.c6c28f8a.chunk.js.map": "/todolist-redo/static/js/2.c6c28f8a.chunk.js.map",
     "index.html": "/todolist-redo/index.html",
-    "precache-manifest.89cb41ea5abbd091e58b8314b492b601.js": "/todolist-redo/precache-manifest.89cb41ea5abbd091e58b8314b492b601.js",
+    "precache-manifest.34f9e8cd77c1d78ad562c1db5bf2f0b1.js": "/todolist-redo/precache-manifest.34f9e8cd77c1d78ad562c1db5bf2f0b1.js",
     "service-worker.js": "/todolist-redo/service-worker.js",
     "static/css/2.ff668ddd.chunk.css.map": "/todolist-redo/static/css/2.ff668ddd.chunk.css.map",
-    "static/css/main.9cceebfa.chunk.css.map": "/todolist-redo/static/css/main.9cceebfa.chunk.css.map",
+    "static/css/main.23c7eb9d.chunk.css.map": "/todolist-redo/static/css/main.23c7eb9d.chunk.css.map",
     "static/js/2.c6c28f8a.chunk.js.LICENSE.txt": "/todolist-redo/static/js/2.c6c28f8a.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/todolist-redo/static/media/fontawesome-webfont.fee66e71.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.8612edda.js",
     "static/css/2.ff668ddd.chunk.css",
     "static/js/2.c6c28f8a.chunk.js",
-    "static/css/main.9cceebfa.chunk.css",
+    "static/css/main.23c7eb9d.chunk.css",
     "static/js/main.114c7a01.chunk.js"
   ]
 }
