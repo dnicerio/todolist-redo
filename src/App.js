@@ -12,7 +12,7 @@ export class App extends Component {
     todos: []
   }
 
-  // Load todos on component startup
+  // Load todos from localStorage on component startup
   componentDidMount = () => {
     const storedTodos = JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY));
     if (storedTodos) {
@@ -21,7 +21,7 @@ export class App extends Component {
     })}
   }
 
-  // Save todos everytime component updates
+  // Save todos to localStorage everytime component updates
   componentDidUpdate = () => {
     localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(this.state.todos), this.state.todos)
   }
