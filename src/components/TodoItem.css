@@ -30,12 +30,11 @@
   color: rgb(235, 222, 222);
   border: 0px;
   border-radius: 5px;
-  transition: transform 0.2s linear;
+  transition: all 0.2s ease-out
 }
 
 .btnComplete:hover {
   cursor: pointer;
-  transform: scale(1.1);
   color: rgb(5, 206, 95);
   background-color: rgb(235, 222, 222);
 }
@@ -48,12 +47,11 @@
   color: rgb(235, 223, 223);
   border: 0px;
   border-radius: 5px;
-  transition: transform 0.2s linear;
+  transition: all 0.2s ease-out;
 }
 
 .btnDelete:hover {
   cursor: pointer;
-  transform: scale(1.1);
   color: rgb(204, 23, 23);
   background-color: rgb(235, 223, 223);
 }
